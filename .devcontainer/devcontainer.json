@@ -18,6 +18,7 @@
     "--security-opt",
     "label=disable"
   ],
+  "networkMode": "host",
   "customizations": {
     "vscode": {
       "extensions": [
